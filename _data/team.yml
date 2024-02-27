@@ -10,7 +10,7 @@ people:
     id: jurenaWille
     url: https://www.researchgate.net/profile/Jurena-Wille
     image_path: /assets/images/team/default.jpg
-    title: Lab Manager
+    title: Lab Manager 
     excerpt: "My name is Jurena Wille, I am from Germany and I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work a lab rotation in the Social Intelligence lab under the supervision of Prof. Dr. Marcel Brass and Dr. Davis Wiesniewski. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions."
   - name: Silvia Formica
     id: sformica
@@ -119,9 +119,4 @@ people:
     excerpt: "I am a master's student at the Berlin School of Mind and Brain. I did my Bachelor's in philosophy at the University of Bologna. I am currently working as a research assistant at the Social Intelligence Lab,approach avoidance biases, the effect of groups' configurations in a Virtual Reality environment. My research interests center around theory of consciousness, free will, cognition and evolutionary psychology/neuroscience, with a special interest in metacognition as a feature of consciousness and in global workspace theories of consciousness."
     url: https://tomasozanardi.com
     github: Tomaso-Zanardi
-  - name: Ayse Sueda Nisanci 
-    id: aysesuedanisanci
-    image_path: /assets/images/team/default.jpg
-    title: Student Research Assistant
-    excerpt: "I am a master's student at the Berlin School of Mind and Brain and a DAAD-TEV scholarship holder. I completed my undergraduate degree at Marmara University in Turkey with a double major in Psychology and Sociology. Currently, I am working as a research assistant at the Social Intelligence Lab, investigating the cognitive mechanism of social influence on collective behavior in a Virtual Reality environment. My research interest is centered around understanding the processing of socioemotional information during social interactions and its impact on human behavior. I am also interested in the Theory of Mind, emotion, empathy, and the cultural variabilities in social cues."
-  
+ 
