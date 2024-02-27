@@ -107,14 +107,6 @@ people:
     image_path: /assets/images/team/Max.jpg
     title: Visiting PhD Student
     excerpt: "I am a visiting PhD student from Central European University (Vienna), where I work under the supervision of Günther Knoblich and Natalie Sebanz. My PhD work centers around the question of how acting together with others in the service of shared goals influence people’s action planning processes and their underlying mental representations. As part of my PhD, I am currently visiting the Social Intelligence Lab for a collaboration with Silvia Formica and Marcel Brass in which we investigate the neural signatures of joint action representations and their modulating effects on automatic imitation effects."
-  - name: Omar Angelo Ibrahim
-    id: omaribrahim
-    url: https://www.researchgate.net/profile/Omar-Ibrahim-24
-    image_path: /assets/images/team/OmarAngeloIbrahim.jpg
-    title: Research Assistant
-    excerpt: "I am a master's student at the Berlin School of Mind and Brain. I did my undergraduate in psychology with a minor in cognitive science at the American University of Beirut. I am currently working as a research assistant at the Social Intelligence Lab, investigating the contribution of auditory and visual cues to group contagion in a Virtual Reality environment. Previously, I have investigated the tonotopy and periodotopy of the primary auditory cortex using fMRI. My research interests tend to center around social cognition and evolutionary psychology/neuroscience, with a special interest in group-related processes and the role of attention and memory in social cognition."
-    github: OAI01
-    researchgate: Omar-Ibrahim-24
   - name: Martha Luk
     id: mluk
     title: Student Research Assistant
