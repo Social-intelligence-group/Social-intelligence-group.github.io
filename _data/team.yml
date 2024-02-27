@@ -127,15 +127,9 @@ people:
     image_path: /assets/images/team/default.jpg
     title: Student Research Assistant/Lab Rotation Student
     excerpt: "My name is Jurena Wille, I am from Germany and I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work a lab rotation in the Social Intelligence lab under the supervision of Prof. Dr. Marcel Brass and Dr. Davis Wiesniewski. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions."
-    github: Tomaso-Zanardi
-  - name: Moritz Bammel 
-    id: moritzbammel 
-    url: https://scholar.google.com/citations?hl=de&user=-U30VakAAAAJ 
+  - name: Ayse Sueda Nisanci 
+    id: aysesuedanisanci
     image_path: /assets/images/team/default.jpg
-    orcid: 0000-0002-0321-2864
-    researchgate: Moritz_Bammel
-    google_scholar: -U30VakAAAAJ 
-    twitter: moritz_bammel
-    title: Lab Rotation Student
-    excerpt: "My name is Moritz and I am a Master’s student at the Berlin School of Mind and Brain at Humboldt University. I completed my undergraduate studies in cognitive science at the University of Osnabrueck in Germany, and I am highly interested in applying the theoretical principles of 4E-cognition to empirical research in cognitive neuroscience and psychology. In my Bachelor’s thesis, I studied spontaneous thought using EEG, and I was involved in a project looking at lay people’s susceptibility to neuroreductionism in psychiatry. In my Master’s thesis, I am investigating the embodied dynamics of reading comprehension by applying nonlinear methods to eye-tracking data. My thesis is co-supervised by Prof. Marcel Brass and Dr. Guilherme Sanches de Oliveira (TU Berlin)."
+    title: Student Research Assistant
+    excerpt: "I am a master's student at the Berlin School of Mind and Brain and a DAAD-TEV scholarship holder. I completed my undergraduate degree at Marmara University in Turkey with a double major in Psychology and Sociology. Currently, I am working as a research assistant at the Social Intelligence Lab, investigating the cognitive mechanism of social influence on collective behavior in a Virtual Reality environment. My research interest is centered around understanding the processing of socioemotional information during social interactions and its impact on human behavior. I am also interested in the Theory of Mind, emotion, empathy, and the cultural variabilities in social cues."
   
