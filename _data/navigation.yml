@@ -18,5 +18,7 @@ main:
     url: /funding/
   - title: "Alumni"
     url: /alumni/
+  - title: "Autogenictraining"
+    url: /autogenictraining/
   - title: "GitHub"
     url: https://github.com/Social-intelligence-group
