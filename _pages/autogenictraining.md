@@ -1,5 +1,5 @@
 ---
-title: Autogenictraining
+title: Autogenic Training
 permalink: /autogenictraining/
 layout: single
 author_profile: false
