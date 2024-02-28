@@ -9,8 +9,8 @@ share: false
 Do you want to learn how to regulate the connection between your body
 and mind?
 
-Participants wanted for a FREE six-week autogenic training intervention
-(Beginning of April until mid of May)
+### Participants wanted for a FREE six-week autogenic training intervention
+### (Beginning of April until mid of May)
 
 Have you ever wondered whether you are able to voluntarily control autonomic processes in
 your body, like lowering your heart rate or increasing your skin temperature? Would you like
@@ -47,8 +47,8 @@ participation will advance scientific understanding of autogenic training and th
 connection. You will be financially compensated for the in-lab testing session and diary
 tasks.
 
-Contact Information: If you are interested in participating or have any questions about the
-study, please contact the Research Team at autogenictraining.psychologie@gmail.com.
+### Contact Information: If you are interested in participating or have any questions about the
+### study, please contact the Research Team at autogenictraining.psychologie@gmail.com.
 
 Thank you for your interest in participating!
 
