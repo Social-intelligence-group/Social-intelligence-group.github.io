@@ -111,7 +111,8 @@ people:
     id: mluk
     title: Student Research Assistant
     image_path: /assets/images/team/Martha_luk.jpg
-    excerpt: ""
+    orcid: 0000-0001-7902-2699
+    excerpt: "My name is Martha Luk and I come from Hong Kong. I am a Master’s student at the Berlin School of Mind and Brain, and a lab rotation student at the Social Intelligence Lab under the supervision of Prof. Dr. Marcel Brass. Before moving to Berlin, I completed my postgraduate studies at the University of Hong Kong investigating the risky decision-making behaviors in patients with early non-affective psychosis. Currently, I am investigating the impact of eye gaze in social exclusion at the Lab. "
   - name: Ayse Sueda Nisanci
     id: aysen
     title: Student Research Assistant
