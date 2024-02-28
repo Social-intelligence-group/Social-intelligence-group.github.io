@@ -1,4 +1,3 @@
-
 ---
 permalink: /methods/
 layout: collection
@@ -17,18 +16,17 @@ feature_row:
   image_path: /assets/images/contacts/scioi_logo.png
   btn_class: "btn--primary"
   btn_label: "Open website"
-- title: Einstein Foundation
-  url: https://www.einsteinfoundation.de/index.php?id=1&L=1
-  image_path: /assets/images/funding/Einsteinfoundation.jpg
+- title: Department of psychology
+  url: https://www.hu-berlin.de/en/studies/counselling/course-catalogue/programme-descriptions/psychomono
+  image_path: /assets/images/contacts/hu_logo.jpeg
   btn_class: "btn--primary"
   btn_label: "Open website"
-- title: DAAD German Academic Exchange Service
-  url: https://www.daad.de/en/
-  image_path: /assets/images/contacts/daad.png
+- title: Ghent Univeristy
+  url: https://www.ugent.be/en
+  image_path: /assets/images/contacts/Logo_Gent.png
   btn_class: "btn--primary"
   btn_label: "Open website"
 ---
-
 
 <br />
 <div class="grid__wrapper">
