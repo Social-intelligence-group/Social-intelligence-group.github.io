@@ -1,16 +1,13 @@
 ---
-title: Autogenic Training
 permalink: /autogenictraining/
 layout: single
 author_profile: false
 share: false
 ---
 
-Do you want to learn how to regulate the connection between your body
-and mind?
+### Do you want to learn how to regulate the connection between your body and mind? 
 
-### Participants wanted for a FREE six-week autogenic training intervention
-### (Beginning of April until mid of May)
+### Participants wanted for a FREE six-week autogenic training intervention (Beginning of April until mid of May)
 
 Have you ever wondered whether you are able to voluntarily control autonomic processes in
 your body, like lowering your heart rate or increasing your skin temperature? Would you like
