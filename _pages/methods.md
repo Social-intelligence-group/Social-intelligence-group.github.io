@@ -7,7 +7,7 @@ page_css:
 - /assets/css/methods.css
 feature_row:
 - title: Motion Capture
-  image_path: /assets/images/contacts/VR.png
+  image_path: /assets/images/methods/VR.png
   btn_class: "btn--primary"
   btn_label: "Open website"
 
