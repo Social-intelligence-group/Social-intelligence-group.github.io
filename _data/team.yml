@@ -112,6 +112,11 @@ people:
     title: Student Research Assistant
     image_path: /assets/images/team/Martha_luk.jpg
     excerpt: ""
+  - name: Ayse Sueda Nisanci
+    id: aysen
+    title: Student Research Assistant
+    image_path: /assets/images/team/Helena_edited.jpg
+    excerpt: "I am a master's student at the Berlin School of Mind and Brain and a DAAD-TEV scholarship holder. I completed my undergraduate degree at Marmara University in Turkey with a double major in Psychology and Sociology. Currently, I am working as a research assistant at the Social Intelligence Lab, investigating the cognitive mechanism of social influence on collective behavior in a Virtual Reality environment. My research interest is centered around understanding the processing of socioemotional information during social interactions and its impact on human behavior. I am also interested in the Theory of Mind, emotion, empathy, and the cultural variabilities in social cues."
   - name: Tomaso Zanardi 
     id: ZTomaso
     title: Student Research Assistant
@@ -125,4 +130,4 @@ people:
     image_path: /assets/images/team/Helena_edited.jpg
     researchgate: Helena-Mastek
     excerpt: "I'm Helena, a Master’s student at the Berlin School of Mind and Brain, Humboldt University. With an undergraduate in sport science and philosophy from Julius-Maximilians- University Würzburg, I'm deeply intrigued by the dynamic interplay of Mind, Body, and Brain. Currently, I'm exploring the effects of autogenic training on attention ability for my Master’s thesis, co-supervised by Prof. Marcel Brass and Dr. Sam Verschooren."
- 
+
