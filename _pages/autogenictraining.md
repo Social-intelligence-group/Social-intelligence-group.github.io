@@ -47,8 +47,7 @@ participation will advance scientific understanding of autogenic training and th
 connection. You will be financially compensated for the in-lab testing session and diary
 tasks.
 
-### Contact Information: If you are interested in participating or have any questions about the
-### study, please contact the Research Team at autogenictraining.psychologie@gmail.com.
+### Contact Information: If you are interested in participating or have any questions about the study, please contact the Research Team at autogenictraining.psychologie@gmail.com.
 
 Thank you for your interest in participating!
 
