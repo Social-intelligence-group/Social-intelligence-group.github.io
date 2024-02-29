@@ -15,7 +15,7 @@ Luisenstraße 56, Haus 5, 10115 Berlin
 ### Contact us via email:
 <mb-socint@hu-berlin.de>
 
-<img src="../../assets/images/projects/image.jpeg" alt="some text">
+<img src="../../assets/images/projects/image.jpeg">
 
 
 
