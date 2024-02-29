@@ -15,7 +15,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Electroencephalogram (EEG)
-  image_path: /assets/images/methods/default.jpg
+  image_path: /assets/images/methods/EEG.png
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Eye-tracking
@@ -23,7 +23,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Interoceptive measures
-  image_path: /assets/images/methods/default.jpg
+  image_path: /assets/images/methods/ECG.png
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Online experiment
