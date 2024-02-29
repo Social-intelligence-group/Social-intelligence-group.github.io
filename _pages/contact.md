@@ -5,6 +5,9 @@ author_profile: false
 share: false
 page_css:
 - /assets/css/contacts.css
+
+header:
+    teaser: /assets/images/home_header.jpeg
 ---
 
 
