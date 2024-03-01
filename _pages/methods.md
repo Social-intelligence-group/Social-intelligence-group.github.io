@@ -11,7 +11,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Virtual Reality (VR)
-  image_path: /assets/images/methods/default.jpg
+  image_path: /assets/images/methods/VR_Hei.jpg
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Electroencephalogram (EEG)
@@ -19,7 +19,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Eye-tracking
-  image_path: /assets/images/methods/default.jpg
+  image_path: /assets/images/methods/Eye_tracking.jpg
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Interoceptive measures
