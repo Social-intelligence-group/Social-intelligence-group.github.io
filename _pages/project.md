@@ -4,7 +4,7 @@ permalink: /research_projects/
 layout: splash
 feature_row:
 - title: Social Intelligence
-  url: projects/social_intelligence/
+  url: projects/intention_and_cognitive_control_in_behaviour/
   image_path: /assets/images/home_header.jpeg
   excerpt: To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels <strong>Sensorimotor</strong> level, <strong>Symbolic</strong> level, and <strong>Cultural</strong> level.
   btn_class: "btn--primary"
