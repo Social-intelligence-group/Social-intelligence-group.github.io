@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /research_projects/
+permalink: /projects_intro/
 layout: splash
 feature_row:
 - title: Social Intelligence
