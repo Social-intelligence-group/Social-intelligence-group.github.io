@@ -4,8 +4,10 @@ main:
     url: /
   - title: "Team"
     url: /team/
-  - title: "Projects"
+  - title: "Research theme"
     url: /research_projects/
+  - title: "Projects"
+    url: /projects_intro/
   - title: "Methods"
     url: /methods/
   - title: "Publications"
