@@ -5,7 +5,7 @@ layout: splash
 feature_row:
 - title: Gender and Agency
   url: projects/gender_agency/
-  image_path: /assets/images/fem6.gif
+  image_path: /assets/images/projects/fem6.gif
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
@@ -33,7 +33,7 @@ feature_row:
 
 - title: Learning new actions from observing others across development
   url: projects/observational_learning/
-  image_path: /assets/images/observational_learning.jpg
+  image_path: /assets/images/projects/observational_learning.jpg
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
