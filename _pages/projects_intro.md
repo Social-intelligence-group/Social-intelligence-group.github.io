@@ -9,6 +9,7 @@ feature_row:
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
+  
 - title: Free Will Belief in Virtual Reality Setting
   url: projects/free_will_belief/
   image_path: /assets/images/home_header.jpeg
@@ -18,6 +19,13 @@ feature_row:
 
 - title: Ideomotor Theory and Voluntary Attention
   url: projects/ideomotor_attention/
+  image_path: /assets/images/home_header.jpeg
+  excerpt: 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- title: Decision Models in Intentional Action
+  url: projects/intentional_action/
   image_path: /assets/images/home_header.jpeg
   excerpt: 
   btn_class: "btn--primary"
