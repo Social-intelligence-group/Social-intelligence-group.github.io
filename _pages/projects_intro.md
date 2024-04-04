@@ -6,7 +6,7 @@ feature_row:
 - title: Gender and Agency
   url: projects/gender_agency/
   image_path: /assets/images/projects/fem6.gif
-  excerpt: 
+  excerpt: Contact person: Sabine Bou Saba
   btn_class: "btn--primary"
   btn_label: "Learn more"
   
