@@ -5,7 +5,7 @@ layout: splash
 feature_row:
 - title: Gender and Agency
   url: projects/gender_agency/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/fem6.gif
   excerpt:For the Gender and Perceived Agency project, we aim to address the following question: How does gender influence the sense and perception of low-level agency? To do so, we will run a series of online and off-line experiments using novel methods inspired by the intentional binding paradigm, to both measure low-level agency and manipulate genderin a linear manner.
   btn_class: "btn--primary"
   btn_label: "Learn more"
