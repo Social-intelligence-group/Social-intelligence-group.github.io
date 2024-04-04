@@ -10,7 +10,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - title: Free Will Belief in Virtual Reality Setting
-  url: projects/intention_and_cognitive_control_in_behaviour/
+  url: projects/free_will_belief/
   image_path: /assets/images/home_header.jpeg
   excerpt: 
   btn_class: "btn--primary"
