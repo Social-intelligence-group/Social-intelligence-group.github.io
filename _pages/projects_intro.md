@@ -12,7 +12,7 @@ feature_row:
 - title: Intention and Cognitive Control in Behaviour
   url: projects/intention_and_cognitive_control_in_behaviour/
   image_path: /assets/images/home_header.jpeg
-  excerpt: Our research on intentional and cognitive control of behavior tries to understand to what degree humans can freely decide what they do and how they can flexibly adapt their behavior to changing environmental demands.
+  excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
 ---
