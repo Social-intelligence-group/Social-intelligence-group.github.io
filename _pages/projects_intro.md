@@ -26,7 +26,7 @@ feature_row:
 
 - title: Decision Models in Intentional Action
   url: projects/intentional_action/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/observational_learning.jpg
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
