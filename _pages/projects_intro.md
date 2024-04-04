@@ -37,6 +37,13 @@ feature_row:
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
+- title: Actor Observer Bias in Moral Responsibility
+  url: projects/actor_observer_bias/
+  image_path: /assets/images/home_header.jpeg
+  excerpt: 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
   
 ---
 
