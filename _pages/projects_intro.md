@@ -17,7 +17,7 @@ feature_row:
   btn_label: "Learn more"
 
 - title: Ideomotor Theory and Voluntary Attention
-  url: projects/free_will_belief/
+  url: projects/ideomotor_attention/
   image_path: /assets/images/home_header.jpeg
   excerpt: 
   btn_class: "btn--primary"
