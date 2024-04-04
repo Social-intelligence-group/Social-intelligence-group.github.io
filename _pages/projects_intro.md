@@ -3,10 +3,10 @@ title: Projects
 permalink: /projects_intro/
 layout: splash
 feature_row:
-- title: Social Intelligence
-  url: projects/social_intelligence/
+- title: Gender and Agency
+  url: projects/gender_agency/
   image_path: /assets/images/home_header.jpeg
-  excerpt: To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels <strong>Sensorimotor</strong> level, <strong>Symbolic</strong> level, and <strong>Cultural</strong> level.
+  excerpt:For the Gender and Perceived Agency project, we aim to address the following question: How does gender influence the sense and perception of low-level agency? To do so, we will run a series of online and off-line experiments using novel methods inspired by the intentional binding paradigm, to both measure low-level agency and manipulate genderin a linear manner.
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - title: Intention and Cognitive Control in Behaviour
