@@ -1,5 +1,5 @@
 ---
-permalink: /autogenictraining/
+permalink: /current_experiments/
 layout: single
 author_profile: false
 share: false
