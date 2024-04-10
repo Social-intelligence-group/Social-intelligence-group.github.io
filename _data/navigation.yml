@@ -20,7 +20,7 @@ main:
     url: /funding/
   - title: "Alumni"
     url: /alumni/
-  - title: "Autogenic Training"
-    url: /autogenictraining/
+  - title: "Current Experiments"
+    url: /current_experiments/
   - title: "GitHub"
     url: https://github.com/Social-intelligence-group
