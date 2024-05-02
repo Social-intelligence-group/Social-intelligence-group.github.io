@@ -58,6 +58,13 @@ feature_row:
   excerpt: Contact person -- Ayse Sueda Nisanci
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
+- title: Implicit Measures of Intention
+  url: projects/implicit_measure_intention/
+  image_path: /assets/images/projects/Libet_clock_VR.png
+  excerpt: Contact person -- Ayse Sueda Nisanci
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
   
 ---
 
