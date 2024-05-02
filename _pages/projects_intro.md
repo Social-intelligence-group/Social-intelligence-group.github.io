@@ -55,7 +55,7 @@ feature_row:
 - title: The Influence of Collective Street-Crossing on Pedestrian's Sense of Agency
   url: projects/street_crossing_agency/
   image_path: /assets/images/projects/SoA - Collective Behavior
-  excerpt: Contact person -- Sabine Bou Saba
+  excerpt: Contact person -- Ayse Sueda Nisanci
   btn_class: "btn--primary"
   btn_label: "Learn more"
   
