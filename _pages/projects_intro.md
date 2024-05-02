@@ -51,6 +51,13 @@ feature_row:
   excerpt: Contact person -- Julia M. Rodriguez Buritica
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
+- title: The Influence of Collective Street-Crossing on Pedestrian's Sense of Agency
+  url: projects/street_crossing_agency/
+  image_path: /assets/images/projects/SoA - Collective Behavior
+  excerpt: Contact person -- Sabine Bou Saba
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
   
 ---
 
