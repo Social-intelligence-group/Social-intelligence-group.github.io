@@ -33,7 +33,7 @@ feature_row:
 
 - title: Learning new actions from observing others across development
   url: projects/observational_learning/
-  image_path: /assets/images/projects/observational_learning.jpg
+  image_path: /assets/images/projects/Maria_learning.png
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
