@@ -32,7 +32,7 @@ feature_row:
   btn_label: "Learn more"
 
 - title: Learning new actions from observing others across development
-  url: projects/observational_learning/
+  url: projects/earning_processes_and_memory_effects_across_development/
   image_path: /assets/images/projects/Maria_learning.png
   excerpt: 
   btn_class: "btn--primary"
