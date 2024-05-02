@@ -1,5 +1,5 @@
 ---
-title: Intention and cognitive control in behaviour
+title: Gender and agency
 permalink: /projects/gender_agency/
 layout: single
 author_profile: false
