@@ -32,7 +32,7 @@ feature_row:
   btn_label: "Learn more"
 
 - title: Learning processes and memory effects across development
-  url: projects/earning_processes_and_memory_effects_across_development/
+  url: projects/learning_processes_and_memory_effects_across_development/
   image_path: /assets/images/projects/Maria_learning.png
   excerpt: Contact person -- Maria Woitow
   btn_class: "btn--primary"
