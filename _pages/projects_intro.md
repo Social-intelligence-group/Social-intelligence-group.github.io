@@ -62,7 +62,7 @@ feature_row:
 - title: Implicit Measures of Intention
   url: projects/implicit_measure_intention/
   image_path: /assets/images/projects/Libet_clock_VR.png
-  excerpt: Contact person -- Ayse Sueda Nisanci
+  excerpt: Contact person -- Yu Hei Shum & Tomaso Zanardi
   btn_class: "btn--primary"
   btn_label: "Learn more"
   
