@@ -31,7 +31,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
-- title: Learning new actions from observing others across development
+- title: Learning processes and memory effects across development
   url: projects/earning_processes_and_memory_effects_across_development/
   image_path: /assets/images/projects/Maria_learning.png
   excerpt: 
@@ -41,6 +41,13 @@ feature_row:
 - title: Actor Observer Bias in Moral Responsibility
   url: projects/actor_observer_bias/
   image_path: /assets/images/home_header.jpeg
+  excerpt: 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- title: Learning new actions from observing others across development
+  url: projects/observational_learning/
+  image_path: /assets/images/projects/observational_learning.jpg
   excerpt: 
   btn_class: "btn--primary"
   btn_label: "Learn more"
