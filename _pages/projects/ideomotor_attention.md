@@ -1,5 +1,5 @@
 ---
-title: Ideomotor Theory and Voluntary Attention
+title: Voluntary Control Over the Internal Body
 permalink: /projects/ideomotor_attention/
 layout: single
 author_profile: false
