@@ -7,7 +7,8 @@ share: false
 header:
     teaser: /assets/images/projects/ExclusionExplicit.mov
 ---
-For four different vignette scenarios, each describing morally relevant interpersonal actions, we compare causal inferences and responsibility attributions in the context of the Actor Observer Bias. We want to explore if participants judge the reasons and responsibilities for their own actions differently than other persons´ actions and whether this effect depends on the participants´ Free Will Beliefs.
+Social exclusion involves isolating an individual from a social group, causing an immediate reflexive pain and emotional distress due to the threatened fundamental human need to belong. The minimal acknowledgement hypothesis argues even the most minimal inclusionary or hostile existential cues signaling acknowledgement can reduce the sting of exclusion. This project aims to explore if the Cyberball task shows a decreased ostracism-related effect when exclusion is explicit, i.e., acknowledgement of presence is conveyed through gaze.
+
 
 
 <img src="../../assets/images/projects/ExclusionExplicit.mov" alt="some text">
