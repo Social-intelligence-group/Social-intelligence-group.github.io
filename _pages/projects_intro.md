@@ -19,7 +19,7 @@ feature_row:
 
 - title: Ideomotor Theory and Voluntary Attention
   url: projects/ideomotor_attention/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/projects/Interoaction2.webp
   excerpt: Contact person -- Sam Verschooren
   btn_class: "btn--primary"
   btn_label: "Learn more"
