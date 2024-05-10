@@ -65,7 +65,15 @@ feature_row:
   excerpt: Contact person -- Yu Hei Shum & Tomaso Zanardi
   btn_class: "btn--primary"
   btn_label: "Learn more"
-  
+
+- title: The impact of gaze in social exclusion
+  url: projects/impact_of_gaze_in_social_exclusion/
+  image_path: /assets/images/projects/Libet_clock_VR.png
+  excerpt: Contact person -- Martha Luk
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+
 ---
 
 <br />
