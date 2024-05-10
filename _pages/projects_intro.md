@@ -17,7 +17,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
-- title: Ideomotor Theory and Voluntary Attention
+- title: Voluntary Control Over the Internal Body
   url: projects/ideomotor_attention/
   image_path: /assets/images/projects/Interoaction2.webp
   excerpt: Contact person -- Sam Verschooren
