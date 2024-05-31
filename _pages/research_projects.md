@@ -3,16 +3,24 @@ title: Projects
 permalink: /research_projects/
 layout: splash
 feature_row:
-- title: Social Intelligence
+- title: Group Influences on Individual Behavior
   url: projects_intro/
   image_path: /assets/images/home_header.jpeg
-  excerpt: To gain a deeper understanding of social intelligence we have to understand social behavior on at least three different levels <strong>Sensorimotor</strong> level, <strong>Symbolic</strong> level, and <strong>Cultural</strong> level.
+  excerpt: This line of research investigates how individual behavior is influenced by the group. It involves phenomena such as social and motor contagion, as well as social conformity. Additionally, we examine how basic social-cognitive functions, such as the sense of agency, are influenced by the group.
   btn_class: "btn--primary"
   btn_label: "Learn more"
-- title: Intention and Cognitive Control in Behaviour
-  url: projects/intention_and_cognitive_control_in_behaviour/
+  
+- title: Social Interactions
+  url: projects/social_interactions/
   image_path: /assets/images/home_header.jpeg
-  excerpt: Our research on intentional and cognitive control of behavior tries to understand to what degree humans can freely decide what they do and how they can flexibly adapt their behavior to changing environmental demands.
+  excerpt: This line of research investigates how individuals interact in various tasks, including     studies on joint action, kinematic adaptation, and social exclusion. Additionally, we examine how properties of agents, such as gender, influence basic social-cognitive processes like the sense of agency.
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- title: Intentional Control and Free Will
+  url: projects/intentional_control_and_free_will/
+  image_path: /assets/images/home_header.jpeg
+  excerpt: Our research on intentionality and free will aims to understand the extent to which humans can make decisions freely and how they can control their behavior and adapt to changing environmental demands. Additionally, we explore how high-level beliefs about free will impact social cognition and moral behavior.
   btn_class: "btn--primary"
   btn_label: "Learn more"
 ---
