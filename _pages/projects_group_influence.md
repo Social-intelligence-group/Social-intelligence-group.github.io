@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /group_influence/
+permalink: /projects_group_influence/
 layout: splash
 feature_row:
 - title: The Influence of Collective Street-Crossing on Pedestrian's Sense of Agency
