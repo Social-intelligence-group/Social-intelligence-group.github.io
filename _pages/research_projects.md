@@ -18,7 +18,7 @@ feature_row:
   btn_label: "Learn more"
 
 - title: Intentional Control and Free Will
-  url: projects/intentional_control_and_free_will/
+  url: projects_intention_free_will/
   image_path: /assets/images/home_header.jpeg
   excerpt: Our research on intentionality and free will aims to understand the extent to which humans can make decisions freely and how they can control their behavior and adapt to changing environmental demands. Additionally, we explore how high-level beliefs about free will impact social cognition and moral behavior.
   btn_class: "btn--primary"
