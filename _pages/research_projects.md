@@ -11,7 +11,7 @@ feature_row:
   btn_label: "Learn more"
   
 - title: Social Interactions
-  url: research_projects/
+  url: projects_social_interaction/
   image_path: /assets/images/home_header.jpeg
   excerpt: This line of research investigates how individuals interact in various tasks, including     studies on joint action, kinematic adaptation, and social exclusion. Additionally, we examine how properties of agents, such as gender, influence basic social-cognitive processes like the sense of agency.
   btn_class: "btn--primary"
