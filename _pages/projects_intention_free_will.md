@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects_intro/
+permalink: /projects_intention_free_will/
 layout: splash
 feature_row: 
 - title: Free Will Belief in Virtual Reality Setting
