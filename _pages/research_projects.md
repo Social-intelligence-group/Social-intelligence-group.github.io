@@ -4,7 +4,7 @@ permalink: /research_projects/
 layout: splash
 feature_row:
 - title: Group Influences on Individual Behavior
-  url: projects_intro/
+  url: projects_group_influence/
   image_path: /assets/images/home_header.jpeg
   excerpt: This line of research investigates how individual behavior is influenced by the group. It involves phenomena such as social and motor contagion, as well as social conformity. Additionally, we examine how basic social-cognitive functions, such as the sense of agency, are influenced by the group.
   btn_class: "btn--primary"
