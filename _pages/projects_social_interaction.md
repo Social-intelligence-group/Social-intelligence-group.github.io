@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects_intro/
+permalink: /projects_social_interaction/
 layout: splash
 feature_row:
 - title: Gender and Agency
