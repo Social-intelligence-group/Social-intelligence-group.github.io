@@ -17,6 +17,14 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
+- title: Learning new actions from observing others across development
+  url: projects/observational_learning/
+  image_path: /assets/images/projects/observational_learning.jpg
+  excerpt: Contact person -- Julia M. Rodriguez Buritica
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+
 
 ---
 
