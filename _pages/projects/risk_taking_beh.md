@@ -1,6 +1,6 @@
 ---
 title: The Effect of Group on Risk-taking Behavior of Individuals
-permalink: /projects/risk_taking_behavior/
+permalink: /projects/risk_taking_beh/
 layout: single
 author_profile: false
 share: false
