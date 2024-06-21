@@ -71,6 +71,11 @@ page_js:
             <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
             </a>
             {% endif %}
+            {% if member.other %}
+            <a href="https://{{ member.other}}" style="text-decoration:None" title="Other" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
+            </a>
+            {% endif %}
             </p>
         </div>
       </div>
