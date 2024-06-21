@@ -12,7 +12,7 @@ feature_row:
   
 - title: Free Will Belief in Virtual Reality Setting
   url: projects/free_will_belief/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/projects/Free _Will_Belief_in_Virtual_Reality_Setting.webp
   excerpt: Contact person -- Nel Tavernier
   btn_class: "btn--primary"
   btn_label: "Learn more"
@@ -26,7 +26,7 @@ feature_row:
 
 - title: Decision Models in Intentional Action
   url: projects/intentional_action/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/projects/Free_Will_Libet.webp
   excerpt: Contact person -- Yu Hei Shum
   btn_class: "btn--primary"
   btn_label: "Learn more"
@@ -47,14 +47,14 @@ feature_row:
 
 - title: Actor Observer Bias in Moral Responsibility
   url: projects/actor_observer_bias/
-  image_path: /assets/images/home_header.jpeg
+  image_path: /assets/images/projects/Actor_Observer_Bias_in_Moral_Responsibility.webp
   excerpt: Contact person -- Jurena Wille
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
 - title: Learning new actions from observing others across development
   url: projects/observational_learning/
-  image_path: /assets/images/projects/observational_learning.jpg
+  image_path: /assets/images/projects/Learning_processes _and_memory effects_across_development.webp
   excerpt: Contact person -- Julia M. Rodriguez Buritica
   btn_class: "btn--primary"
   btn_label: "Learn more"
