@@ -33,7 +33,7 @@ feature_row:
 
 - title: Learning processes and memory effects across development
   url: projects/learning_processes_and_memory_effects_across_development/
-  image_path: /assets/images/projects/Maria_learning.png
+  image_path: /assets/images/projects/Learning_processes _and_memory effects_across_development.webp
   excerpt: Contact person -- Maria Woitow
   btn_class: "btn--primary"
   btn_label: "Learn more"
@@ -54,7 +54,7 @@ feature_row:
 
 - title: Learning new actions from observing others across development
   url: projects/observational_learning/
-  image_path: /assets/images/projects/Learning_processes _and_memory effects_across_development.webp
+  image_path: /assets/images/projects/observational_learning.jpg
   excerpt: Contact person -- Julia M. Rodriguez Buritica
   btn_class: "btn--primary"
   btn_label: "Learn more"
