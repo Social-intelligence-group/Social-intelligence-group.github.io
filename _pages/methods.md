@@ -27,7 +27,7 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Open website"
 - title: Online experiment
-  image_path: /assets/images/methods/default.jpg
+  image_path: /assets/images/methods/Online_Experiment.webp
   btn_class: "btn--primary"
   btn_label: "Open website"
 ---
