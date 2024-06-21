@@ -89,7 +89,7 @@ feature_row:
 
 - title: The Effect of Group on Risk-taking Behavior of Individuals
   url: projects/risk_taking_beh/
-  image_path: /assets/images/projects/group.mp4
+  image_path: /assets/images/projects/Balloon.mp4
   excerpt: Contact person -- Asieh Daneshi
   btn_class: "btn--primary"
   btn_label: "Learn more"
