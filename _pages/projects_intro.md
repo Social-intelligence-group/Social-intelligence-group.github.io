@@ -75,11 +75,12 @@ feature_row:
 
 - title: The impact of gaze in social exclusion
   url: projects/impact_of_gaze_in_social_exclusion/
-  <video width="640" height="360" controls>
-  <source src="/assets/images/projects/ExclusionExplicit.mov" type="video/mov">
   excerpt: Contact person -- Martha Luk
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
+  <video width="640" height="360" controls>
+  <source src="/assets/images/projects/ExclusionExplicit.mov" type="video/mov">
 
 - title: The Effect of Social Factors on Decision-making Processes
   url: projects/social_factors_decision_making/
