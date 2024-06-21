@@ -79,9 +79,6 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
-  <video width="640" height="360" controls>
-  <source src="/assets/images/projects/ExclusionExplicit.mov" type="video/mov">
-
 - title: The Effect of Social Factors on Decision-making Processes
   url: projects/social_factors_decision_making/
   image_path: /assets/images/projects/ExclusionExplicit.mov
