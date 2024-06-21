@@ -75,6 +75,7 @@ feature_row:
 
 - title: The impact of gaze in social exclusion
   url: projects/impact_of_gaze_in_social_exclusion/
+  image_path: /assets/images/projects/ExclusionExplicit.mov
   excerpt: Contact person -- Martha Luk
   btn_class: "btn--primary"
   btn_label: "Learn more"
