@@ -80,6 +80,27 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
+- title: The impact of gaze in social exclusion
+  url: projects/impact_of_gaze_in_social_exclusion/
+  image_path: /assets/images/projects/ExclusionExplicit.mov
+  excerpt: Contact person -- Martha Luk
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- title: The Effect of Social Factors on Decision-making Processes
+  url: projects/social_factors_decision_making/
+  image_path: /assets/images/projects/ExclusionExplicit.mov
+  excerpt: Contact person -- Asieh Daneshi
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- title: The Effect of Group on Risk-taking Behavior of Individuals
+  url: projects/risk_taking_beh/
+  image_path: /assets/images/projects/ExclusionExplicit.mov
+  excerpt: Contact person -- Asieh Daneshi
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
 
 ---
 
