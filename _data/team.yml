@@ -48,7 +48,7 @@ people:
   - name: Asieh Daneshi
     id: asiehdaneshi
     url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
-    image_path: /assets/images/team/Asieh.jpg
+    image_path: /assets/images/team/Asieh_photo_ver2.jpg
     title: Postdoctoral Research Fellow
     excerpt: "My name is Asieh Daneshi and I come from Iran. I am currently a Post-Doc researcher in Marcel’s lab. My bachelor and master studies were on electrical engineering and my PhD was on biomedical engineering (bioelectric). For my PhD, I worked on computational models of decision-making during driving (based on attention). I conducted my experiments in virtual reality environment. I have also experience in recording and analyzing eye motion, EEG, and fMRI data. I am interested to study how does the decision-making process take place in our brains, especially in dynamic environments. The title of my current project in Marcel’s lab is “Experimental investigation of behavioral contagion in VR”. We are studying how decisions of each person can affect the decisions of other persons around him/her."
     github: Asieh-Daneshi
