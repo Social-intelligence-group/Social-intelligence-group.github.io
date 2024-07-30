@@ -12,6 +12,16 @@ people:
     image_path: /assets/images/team/Jurena.jpg
     title: Lab Manager
     excerpt: "My name is Jurena Wille, I am from Germany and I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work a lab rotation in the Social Intelligence lab under the supervision of Prof. Dr. Marcel Brass and Dr. Davis Wiesniewski. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions."
+ - name: Asieh Daneshi
+    id: asiehdaneshi
+    url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
+    image_path: /assets/images/team/Asieh_photo_ver2.jpg
+    title: Postdoctoral Research Fellow
+    excerpt: "My name is Asieh Daneshi and I come from Iran. I am currently a Post-Doc researcher in Marcel’s lab. My bachelor and master studies were on electrical engineering and my PhD was on biomedical engineering (bioelectric). For my PhD, I worked on computational models of decision-making during driving (based on attention). I conducted my experiments in virtual reality environment. I have also experience in recording and analyzing eye motion, EEG, and fMRI data. I am interested to study how does the decision-making process take place in our brains, especially in dynamic environments. The title of my current project in Marcel’s lab is “Experimental investigation of behavioral contagion in VR”. We are studying how decisions of each person can affect the decisions of other persons around him/her."
+    github: Asieh-Daneshi
+    researchgate: Asieh-Daneshi-2
+    google_scholar: _XJAxTHvcRkC&hl=en
+    orcid: 0000-0003-0748-4012
   - name: Silvia Formica
     id: sformica
     url: https://www.researchgate.net/profile/Silvia-Formica
@@ -28,6 +38,12 @@ people:
     title: Postdoctoral Research Fellow
     excerpt: "I am Carl Michael Galang (just call me Mike!) from Toronto, Canada. I am currently a Post-Doctoral Research Fellow at the Humboldt University of Berlin under the supervision of Prof. Marcel Brass. I completed my undergraduate degree at the University of Toronto with a double major in Cognitive Science and Philosophy. My PhD training is in the emerging field of Social Cognitive Neuroscience and was completed at McMaster University under the supervision of Prof. Sukhvinder Obhi. My Post-Doctoral research focuses on the Sense of Agency; although my research interests span a number of topics including: empathy, social power, and various human mirror neuron system indices (e.g., automatic imitation, motor resonance)."
     github: galangca
+  - name: Dalit Milshtein
+    id: dmilshtein
+    image_path: /assets/images/team/CarlMichaelGalang.png
+    title: Postdoctoral Research Fellow
+    excerpt: "I am a social and cognitive neuroscientist, theater artist, storyteller, and social activist. I was born, educated, and created theater in Israel, and I am presently a postdoc in the lab. I graduated with highest honors from Tel-Aviv University in Theatre Art and Linguistics under the supervision of Prof. Nurit Yaari. My PhD in the in experimental Social Cognitive Neuroscience was obtained at Ben-Gurion University under the supervision of Prof. Avishi Henik. I collaborated with Prof. Simon Samay-Tzoory from Haifa University on interbrain synchronization, group dynamics, and perspective taking. I also have expertise in pupil dilation and fNIRS methods. My major area of research is imagination and its significance in our emotional, cognitive, and social lives. In Berlin, I collaborate with Prof. Marcel Brass to develop a new approach for researching high-level beliefs utilizing narratives and virtual reality methods. In addition, I am interested in shared imagination and mental representations in dyad and groups."
+    orcid: 0000-0003-0821-3206 
   - name: Matilde Rocca
     id: mrocca
     url: https://www.researchgate.net/profile/MatildeRocca bw
@@ -45,16 +61,6 @@ people:
     excerpt: "I am a developmental cognitive neuroscientist at the Freie Universität Berlin working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Berlin School of Mind and Brain, and then worked as a DAAD scholar at the Brain and Development Lab at the Leiden University before I started my postdoc at the Center for Cognitive Neuroscience Berlin, Freie Universität Berlin. I am interested in social learning and decision making from a developmental cognitive neuroscience perspective using EEG, fMRI and computational modeling."
     researchgate: Julia-Rodriguez-Buritica
     google_scholar: a48LL5wAAAAJ&hl=en
-  - name: Asieh Daneshi
-    id: asiehdaneshi
-    url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
-    image_path: /assets/images/team/Asieh_photo_ver2.jpg
-    title: Postdoctoral Research Fellow
-    excerpt: "My name is Asieh Daneshi and I come from Iran. I am currently a Post-Doc researcher in Marcel’s lab. My bachelor and master studies were on electrical engineering and my PhD was on biomedical engineering (bioelectric). For my PhD, I worked on computational models of decision-making during driving (based on attention). I conducted my experiments in virtual reality environment. I have also experience in recording and analyzing eye motion, EEG, and fMRI data. I am interested to study how does the decision-making process take place in our brains, especially in dynamic environments. The title of my current project in Marcel’s lab is “Experimental investigation of behavioral contagion in VR”. We are studying how decisions of each person can affect the decisions of other persons around him/her."
-    github: Asieh-Daneshi
-    researchgate: Asieh-Daneshi-2
-    google_scholar: _XJAxTHvcRkC&hl=en
-    orcid: 0000-0003-0748-4012
   - name: Sam Verschooren 
     url: https://scholar.google.com/citations?user=MHeR8s4AAAAJ&hl=nl
     image_path: /assets/images/team/Sam_edited_2.jpg
