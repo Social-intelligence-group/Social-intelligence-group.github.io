@@ -17,6 +17,13 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
+- title: Free Will Belief in Narrative
+  url: projects/free_will_belief_narrative/
+  image_path: /assets/images/projects/Free _Will_Belief_in_Virtual_Reality_Setting.webp
+  excerpt: Contact person -- Dalit Milshtein
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
 - title: Voluntary Control Over the Internal Body
   url: projects/ideomotor_attention/
   image_path: /assets/images/projects/Interoaction2.webp
