@@ -113,12 +113,11 @@ people:
     image_path: /assets/images/team/Max.jpg
     title: Visiting PhD Student
     excerpt: "I am a visiting PhD student from Central European University (Vienna), where I work under the supervision of Günther Knoblich and Natalie Sebanz. My PhD work centers around the question of how acting together with others in the service of shared goals influence people’s action planning processes and their underlying mental representations. As part of my PhD, I am currently visiting the Social Intelligence Lab for a collaboration with Silvia Formica and Marcel Brass in which we investigate the neural signatures of joint action representations and their modulating effects on automatic imitation effects."
-  - name: Martha Luk
-    id: mluk
+  - name: Roghaye Keshavarzi
+    id: rkeshavarzi
     title: Student Research Assistant
-    image_path: /assets/images/team/Martha_luk.jpg
-    orcid: 0000-0001-7902-2699
-    excerpt: "My name is Martha Luk and I come from Hong Kong. I am a Master’s student at the Berlin School of Mind and Brain, and a lab rotation student at the Social Intelligence Lab under the supervision of Prof. Dr. Marcel Brass. Before moving to Berlin, I completed my postgraduate studies at the University of Hong Kong investigating the risky decision-making behaviors in patients with early non-affective psychosis. Currently, I am investigating the impact of eye gaze in social exclusion at the Lab."
+    image_path: Roghaye_Keshavarzi.jpg
+    excerpt: "I am pursuing my second master's at the Berlin School of Mind and Brain and Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
   - name: Martha Luk
     id: mluk
     title: Student Research Assistant
