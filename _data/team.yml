@@ -124,6 +124,11 @@ people:
     image_path: /assets/images/team/Martha_luk.jpg
     orcid: 0000-0001-7902-2699
     excerpt: "My name is Martha Luk and I come from Hong Kong. I am a Master’s student at the Berlin School of Mind and Brain, and a lab rotation student at the Social Intelligence Lab under the supervision of Prof. Dr. Marcel Brass. Before moving to Berlin, I completed my postgraduate studies at the University of Hong Kong investigating the risky decision-making behaviors in patients with early non-affective psychosis. Currently, I am investigating the impact of eye gaze in social exclusion at the Lab."
+  - name: Mahdieh Mirmohammad
+    id: mmirmohammad
+    title: Student Research Assistant
+    image_path: /assets/images/team/Martha_luk.jpg
+    excerpt: "My name is Mahdieh. I am currently a student assistant at the Social Intelligence Lab, using VR techniques to investigate observational learning and decision-making in different social contexts. During my first MSc in psychology in Tehran, I focused on the effects of facial cues on trust behavior using game theory paradigm. Pursuing my second MSc at the Berlin School of Mind and Brain, I am  now interested in exploring neural correlates of social cues, specifically using EEG brain activity patterns analyzed through machine learning methods."
   - name: Ayse Sueda Nisanci
     id: aysen
     title: Student Research Assistant
