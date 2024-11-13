@@ -38,6 +38,14 @@ people:
     title: Postdoctoral Research Fellow
     excerpt: "I am Carl Michael Galang (just call me Mike!) from Toronto, Canada. I am currently a Post-Doctoral Research Fellow at the Humboldt University of Berlin under the supervision of Prof. Marcel Brass. I completed my undergraduate degree at the University of Toronto with a double major in Cognitive Science and Philosophy. My PhD training is in the emerging field of Social Cognitive Neuroscience and was completed at McMaster University under the supervision of Prof. Sukhvinder Obhi. My Post-Doctoral research focuses on the Sense of Agency; although my research interests span a number of topics including: empathy, social power, and various human mirror neuron system indices (e.g., automatic imitation, motor resonance)."
     github: galangca
+  - name: Eitan Hemed
+    id: ehemed
+    image_path: /assets/images/team/Dalit.png
+    title: Postdoctoral Research Fellow
+    excerpt: "I am Eitan Hemed, an Experimental Psychologist from Israel. Currently working as a postdoctoral researcher with Prof. Brass, and a fellow of the Science of Intelligence (SCIoI) cluster of excellence. I will be working on observational reinforcement learning, also with Dr. Julia Rodriguez Buritica. Before that, I was a posdoctoral fellow of the University of Haifa Data Science Research Center, where I used computer vision methods to study the development of directed reaching in infants, mentored by Prof. Baruch Eitam from the Department of Psychology. Prior to that, I have completed my dissertation with Prof. Baruch Eitam, by exploring how statistical properties of feedback reinforce various levels of action-selection and action-execution."
+    github: EitanHemed
+    google_scholar: DPr1hZMAAAAJ&hl=en
+    researchgate: Eitan-Hemed
   - name: Dalit Milshtein
     id: dmilshtein
     image_path: /assets/images/team/Dalit.png
