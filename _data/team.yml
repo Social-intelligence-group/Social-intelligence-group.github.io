@@ -40,7 +40,7 @@ people:
     github: galangca
   - name: Eitan Hemed
     id: ehemed
-    image_path: /assets/images/team/Dalit.png
+    image_path: /assets/images/team/Eitan_Hemed.jpg
     title: Postdoctoral Research Fellow
     excerpt: "I am Eitan Hemed, an Experimental Psychologist from Israel. Currently working as a postdoctoral researcher with Prof. Brass, and a fellow of the Science of Intelligence (SCIoI) cluster of excellence. I will be working on observational reinforcement learning, also with Dr. Julia Rodriguez Buritica. Before that, I was a posdoctoral fellow of the University of Haifa Data Science Research Center, where I used computer vision methods to study the development of directed reaching in infants, mentored by Prof. Baruch Eitam from the Department of Psychology. Prior to that, I have completed my dissertation with Prof. Baruch Eitam, by exploring how statistical properties of feedback reinforce various levels of action-selection and action-execution."
     github: EitanHemed
