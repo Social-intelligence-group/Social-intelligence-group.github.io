@@ -12,16 +12,14 @@ people:
     image_path: /assets/images/team/Jurena.jpg
     title: Lab Manager
     excerpt: "My name is Jurena Wille, I have a graduate degree in psychology with a focus on cognitive neuroscience and legal psychology. In my master's thesis I investigated the influence of conceptual and visual features on memory performance for visual scenes. Currently I am a student in the master's program of the Berlin School of Mind and Brain and work as a lab manager in the Social Intelligence lab. My main research interests lie in conformity behavior, perceptions of morality and responsibility attributions. In my current project under the supervision of Prof. Marcel Brass and Dr. Carl Michael Galang, I connect Free Will Beliefs and moral responsibility attributions to Actor / Observer differences."
-  - name: Asieh Daneshi
-    id: asiehdaneshi
+  - name: Angeliki Charalampaki
+    id: angelikic 
     url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
     image_path: /assets/images/team/Asieh_photo_ver2.jpg
     title: Postdoctoral Research Fellow
-    excerpt: "My name is Asieh Daneshi and I come from Iran. I am currently a Post-Doc researcher in Marcel’s lab. My bachelor and master studies were on electrical engineering and my PhD was on biomedical engineering (bioelectric). For my PhD, I worked on computational models of decision-making during driving (based on attention). I conducted my experiments in virtual reality environment. I have also experience in recording and analyzing eye motion, EEG, and fMRI data. I am interested to study how does the decision-making process take place in our brains, especially in dynamic environments. The title of my current project in Marcel’s lab is “Experimental investigation of behavioral contagion in VR”. We are studying how decisions of each person can affect the decisions of other persons around him/her."
-    github: Asieh-Daneshi
-    researchgate: Asieh-Daneshi-2
-    google_scholar: _XJAxTHvcRkC&hl=en
-    orcid: 0000-0003-0748-4012
+    excerpt: "In daily life, we rarely question who controls our movements—until something goes wrong. Imagine scrolling on your computer when suddenly your mouse malfunctions. You’re still moving, but the cursor no longer responds. This disruption highlights a loss of *sense of agency*—the feeling of control over our movements and their outcomes. This phenomenon isn’t just a technical glitch; it’s also altered in many neurological (e.g., Apraxia, Anosognosia, and Cerebral Palsy) and psychiatric conditions (e.g., Schizophrenia). But what exactly defines our sense of agency—our movements or their consequences? And are they the same? As a postdoctoral researcher in the lab, I will explore these questions using precise, unbiased experimental measures."
+    google_scholar: Qpbj8sUAAAAJ&hl=en&oi=ao
+    orcid: 0000-0002-8999-6873
   - name: Asieh Daneshi
     id: asiehdaneshi
     url:  https://www.researchgate.net/profile/Asieh-Daneshi-2
@@ -160,7 +158,7 @@ people:
   - name: Setayesh Karami
     id: setayeshk
     title: Lab Rotation Student
-    image_path: /assets/images/team/Farida.jpg
+    image_path: /assets/images/team/Setayeshkarami.jpg
     excerpt: "I'm Setayesh, a passionate student with a background in philosophy, now diving into empirical research projects. I completed my bachelor’s degree at the University of Tehran and earned my master’s in philosophy at Humboldt University of Berlin. Currently, I'm pursuing my second master's in Mind and Brain, focusing on the intersection of philosophical inquiry and experimental methods. My research is primarily centered around free will beliefs and moral responsibility, and I’m excited to explore how these concepts influence our understanding of human agency."
   
     
