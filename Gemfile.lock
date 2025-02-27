@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    bibtex-ruby (6.0.0)
+    bibtex-ruby (7.0.0)
       latex-decode (~> 0.0)
     citeproc (1.0.10)
       namae (~> 1.0)
