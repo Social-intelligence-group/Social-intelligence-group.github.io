@@ -135,6 +135,6 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.0
+   2.5.0
 
 
