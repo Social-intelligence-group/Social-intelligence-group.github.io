@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem 'jekyll', github: 'jekyll/jekyll'
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", "4.26.1"
 gem "webrick", "~> 1.7.0"
 
 group :jekyll_plugins do
