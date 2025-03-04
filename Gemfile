@@ -8,7 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', github: 'jekyll/jekyll'
+gem "jekyll", "~> 4.4" # Use latest stable Jekyll
+gem "liquid", "~> 4.0" # Ensure compatibility
+gem "jekyll-scholar", "~> 7.1"
+gem "jekyll-include-cache"
 gem "minimal-mistakes-jekyll", "4.26.1"
 gem "webrick", "~> 1.7.0"
 
