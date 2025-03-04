@@ -10,7 +10,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4" # Use latest stable Jekyll
 gem "liquid", "~> 4.0" # Ensure compatibility
-gem "jekyll-scholar", "~> 8.0"
+gem "jekyll-scholar", "~> 7.1.3"
 gem "jekyll-include-cache"
 gem "minimal-mistakes-jekyll", "4.26.1"
 gem "webrick", "~> 1.7.0"
