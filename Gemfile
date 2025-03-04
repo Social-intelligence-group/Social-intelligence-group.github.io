@@ -15,7 +15,3 @@ gem "jekyll-include-cache"
 gem "minimal-mistakes-jekyll", "4.26.1"
 gem "webrick", "~> 1.7.0"
 
-group :jekyll_plugins do
-    gem 'jekyll-scholar'
-    gem 'jekyll-include-cache'
-end
