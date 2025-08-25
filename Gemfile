@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4.4" # Use latest stable Jekyll
+gem "jekyll", "~> 4.4.1" # Use latest stable Jekyll
 gem "liquid", "~> 4.0" # Ensure compatibility
 gem "jekyll-scholar", "~> 7.1.3"
 gem "jekyll-include-cache"
