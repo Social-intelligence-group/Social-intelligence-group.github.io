@@ -17,7 +17,6 @@ Nel Tavernier (Until 2024)
 
 ### Research Assistant:
 Valerii Chirkov (Until 2022)
-
 Omar Angelo Ibrahim (Until 2023)
 
 
