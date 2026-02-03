@@ -29,22 +29,6 @@ people:
     researchgate: Asieh-Daneshi-2
     google_scholar: _XJAxTHvcRkC&hl=en
     orcid: 0000-0003-0748-4012
-  - name: Silvia Formica
-    id: sformica
-    url: https://www.researchgate.net/profile/Silvia-Formica
-    google_scholar: WSUwECYAAAAJ&hl=en&oi=ao
-    researchgate: Silvia-Formica
-    orcid: 0000-0001-9984-1878
-    image_path: /assets/images/team/SilviaFormica.jpg
-    title: Postdoctoral Research Fellow
-    excerpt: "My name is Silvia Formica and I come from Italy. I am currently a Post-Doc in the lab. <br/> Before moving to Berlin, I studied Psychology, Cognitive Neuroscience and Neuropsychology in Milano and Padova (Italy) and I did my PhD at Gent University (Belgium) under the supervision of Prof. Marcel Brass. My thesis concerned instructions following and I investigated this process using behavioral and electrophysiological measures.<br/>I am interested in the neuro-cognitive mechanisms involved in adapting to novel and challenging situations, and I am curious about how such mechanisms are used in social contexts."
-  - name: Carl Michael Galang
-    id: mgalang
-    url: https://galangca.github.io/
-    image_path: /assets/images/team/CarlMichaelGalang.png
-    title: Postdoctoral Research Fellow
-    excerpt: "I am Carl Michael Galang (just call me Mike!) from Toronto, Canada. I am currently a Post-Doctoral Research Fellow at the Humboldt University of Berlin under the supervision of Prof. Marcel Brass. I completed my undergraduate degree at the University of Toronto with a double major in Cognitive Science and Philosophy. My PhD training is in the emerging field of Social Cognitive Neuroscience and was completed at McMaster University under the supervision of Prof. Sukhvinder Obhi. My Post-Doctoral research focuses on the Sense of Agency; although my research interests span a number of topics including: empathy, social power, and various human mirror neuron system indices (e.g., automatic imitation, motor resonance)."
-    github: galangca
   - name: Eitan Hemed
     id: ehemed
     image_path: /assets/images/team/Eitan_Hemed.jpg
