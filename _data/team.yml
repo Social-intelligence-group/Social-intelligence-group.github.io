@@ -80,7 +80,7 @@ people:
     image_path: /assets/images/team/Maria_edited.jpg
     title: PhD Student
     excerpt: "I am Maria Woitow from Germany. I am currently a PhD student at the Berlin School of Mind and Brain and the Humboldt University of Berlin, supervised by Prof. Marcel Brass. I completed my master's degree in Neural and Behavioral Biology at the Georg August University of Göttingen. My research interests focus on learning and memory processes and their development. My PhD project examines the neural and computational mechanisms underlying experiential (individual) and observational learning and their effect on memory formation. To investigate whether experiential and observational learning differ in memory encoding, I am applying a neurocomputational approach combining neural (EEG) and behavioral measures with computational modeling. Additionally, I am interested in exploring potential developmental differences in these processes between children and young adults."
-- name: Tomaso Zanardi 
+  - name: Tomaso Zanardi 
     id: ZTomaso
     title: PhD Student
     image_path: /assets/images/team/tomaso_edited.png
@@ -90,7 +90,7 @@ people:
     id: rkeshavarzi
     title: Student Research Assistant
     image_path: /assets/images/team/Roghaye_Keshavarzi.jpg
-    excerpt: "I am pursuing my second master's at the Berlin School of Mind and Brain and Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
+    excerpt: "I am pursuing my Ph.D Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
   - name: Mahdieh Mirmohammad
     id: mmirmohammad
     title: Student Research Assistant
