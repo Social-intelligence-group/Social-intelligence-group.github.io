@@ -51,6 +51,13 @@ people:
     excerpt: "I am a developmental cognitive neuroscientist at the Freie Universität Berlin working as a guest researcher at the Social Intelligence Lab. I did my PhD at the Berlin School of Mind and Brain, and then worked as a DAAD scholar at the Brain and Development Lab at the Leiden University before I started my postdoc at the Center for Cognitive Neuroscience Berlin, Freie Universität Berlin. I am interested in social learning and decision making from a developmental cognitive neuroscience perspective using EEG, fMRI and computational modeling."
     researchgate: Julia-Rodriguez-Buritica
     google_scholar: a48LL5wAAAAJ&hl=en
+  - name: Anna-Lena Tebbe 
+    id: altebbe
+    image_path: /assets/images/team/Anna_lena.jpg
+    title: Postdoctoral Research Fellow
+    excerpt: "I am a postdoctoral researcher in cognitive and social neuroscience interested in how higher-order cognitive processes shape perception. I completed my PhD in Psychology and Neuroscience at the University of Leipzig and the Max-Planck-Institute for Human Cognitive and Brain Sciences. Before moving to Berlin, I was a postdoctoral researcher at the University of Florida. My work lies at the intersection of cognitive and social neuroscience and developmental psychology. I use EEG and eye-tracking to investigate social cognition, visual perception, and learning across development. I am also highly interested in developing and validating methods to quantify human brain activity."
+    researchgate: Anna-Lena-Tebbe
+    google_scholar: nYv3gQAAAAJ
   - name: Martha Luk
     id: mluk
     title: PhD Student
