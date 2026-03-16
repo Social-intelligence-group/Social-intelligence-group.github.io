@@ -100,7 +100,7 @@ people:
     url: https://tomasozanardi.com
     github: Tomaso-Zanardi
     id: rkeshavarzi
-    title: Student Research Assistant
+    title: PhD Student
     image_path: /assets/images/team/tomaso_edited.png
     excerpt: "I am pursuing my Ph.D Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
   - name: Mahdieh Mirmohammad
@@ -108,6 +108,11 @@ people:
     title: Student Research Assistant
     image_path: /assets/images/team/Mahdieh_Mirmohammad_crop.jpg
     excerpt: "My name is Mahdieh. I am currently a student assistant at the Social Intelligence Lab, using VR techniques to investigate observational learning and decision-making in different social contexts. During my first MSc in psychology in Tehran, I focused on the effects of facial cues on trust behavior using game theory paradigm. Pursuing my second MSc at the Berlin School of Mind and Brain, I am  now interested in exploring neural correlates of social cues, specifically using EEG brain activity patterns analyzed through machine learning methods."
+  - name: Roghaye Keshavarz
+    id: Rokeshavarz
+    title: Student Research Assistant
+    image_path: /assets/images/team/Roghaye_Keshavarzi.jpg
+    excerpt:  "I am pursuing my second master's at the Berlin School of Mind and Brain and Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project "Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task" at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing neuroscientific methods such as EEG and VR."
   - name: Setayesh Karami
     id: setayeshk
     title: Lab Rotation Student
