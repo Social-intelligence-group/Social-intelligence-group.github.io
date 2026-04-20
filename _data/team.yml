@@ -122,5 +122,7 @@ people:
     id: hasibuli
     title: Lab Rotation Student
     image_path: /assets/images/team/Setayeshkarami.jpg
+    github: hasibhu
+    url: www.hasibulislam.de
     excerpt: "I’m a psychology graduate from Jagannath University, Bangladesh, with a background as a full-stack web developer and a junior DevOps engineer. My academic interests lie at the intersection of theories of social sciences, cognitive science, and experimental research. I am currently completing my master’s thesis on biological motion perception, with a particular focus on gender-related effects in perceptual processing. By bridging technical expertise and psychological research, I aim to investigate social science theories through computational modeling and empirical experimentation, contributing to a deeper understanding of human perception and behavior."
 
