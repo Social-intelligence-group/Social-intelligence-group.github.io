@@ -103,8 +103,8 @@ people:
     title: PhD Student
     image_path: /assets/images/team/tomaso_edited.png
     excerpt: "I am pursuing my Ph.D Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
-  - name: Roghaye Keshavarz
-    id: Rokeshavarz
+  - name: Tomaso Zanardi
+    id: rokeshavarz
     title: Student Research Assistant
     image_path: /assets/images/team/Roghaye_Keshavarzi.jpg
     excerpt:  "I am pursuing my second master's at the Berlin School of Mind and Brain and Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project "Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task" at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing neuroscientific methods such as EEG and VR."
