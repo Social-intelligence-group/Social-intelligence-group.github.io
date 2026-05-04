@@ -13,7 +13,7 @@ Humboldt-Universität zu Berlin, Berlin School of Mind and Brain\
 Luisenstraße 56, Haus 5, 10115 Berlin
 
 ### Contact us via email:
-<mb-socint@hu-berlin.de>
+<mbsocint@hu-berlin.de>
 
 <img src="../../assets/images/House_5.jpg">
 
