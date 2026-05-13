@@ -104,8 +104,8 @@ people:
     image_path: /assets/images/team/tomaso_edited.png
     excerpt: "I am pursuing my Ph.D Humboldt-Universität zu Berlin. I completed my first master's in psychology, where my thesis explored personality traits, self-regulation, and urgency. Currently, I am working on the project Observational Learning: Developing Humans and Artificial Agents through a Virtual Reality Task at the Social Intelligence Lab. My research interests include emotion, social learning, and decision-making, employing (neuro)scientific methods such as EEG and VR."
     url: https://tomasozanardi.com
-  - name: Michael Hicks
-    id: michaelh
+  - name: MJ Hicks
+    id: mjh
     title: Student Research Assistant
     image_path: /assets/images/team/Michael_Hicks.jpg
     excerpt: "I'm MJ, a student assistant in the lab currently pursuing an MSc at the Berlin School of Mind and Brain. I completed my bachelors in Cognitive Science at the University of Michigan with a focus on psycholinguistics. I also worked in the tech industry, assisting in VR and AR research. I am currently interested in studying social cognition and communication by measuring neural activity in immersive environments."
